@@ -127,6 +127,30 @@ Sinhgad Institute Of Technology, Lonavala (2020–2024)
 
 ---
 
+## 📊 GitHub Insights
+
+<div align="center">
+
+<!-- One-line Layout -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjay1509&layout=compact&theme=github_dark&border_radius=10&langs_count=15" width="350"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Dhananjay1509&show_icons=true&theme=react&hide_title=false" width="350"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhananjay1509&theme=react" width="350"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+---
+
 ## 📬 Let's Connect
 
 - 📧 Email: nerkarr.dhananjay@gmail.com  
