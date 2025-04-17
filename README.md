@@ -31,10 +31,11 @@ Currently seeking a position as a **Data Analyst** to leverage my curiosity and 
 
 | 🔧 Project | 🌟 Highlights | 🔗 Link |
 |-----------|---------------|--------|
+| 🔥 Forest Fire Prediction | Ridge Regression model with 98.4% accuracy, Gradio UI, Hugging Face Spaces deployment | [Repo](https://github.com/Dhananjay1509/forest-fire-prediction) |
 | 🎯 Advanced Geofencing System | Real-time geolocation, marketing triggers, Firebase integration | [Repo](https://github.com/Dhananjay1509/Advanced-Geofencing) |
-| 📊 Power BI Sales Dashboard | Sales trends, KPI visualizations, auto-refresh enabled | [Repo](https://github.com/Dhananjay1509/Bharat-Soft-Solution/tree/main/Power%20BI/T1) |
+| 📊 Power BI Sales Dashboard | Sales trends, KPI visualizations, auto-refresh enabled |  |
 | 📈 University Admission Predictor | Linear Regression + Streamlit web app, 89.7% accuracy | [Repo](https://github.com/Dhananjay1509/Admission_LR) |
-| 🧾 Student Spending Analysis | Row-level security (RLS), interactive Power BI dashboard | [Pinned Repo](https://github.com/Dhananjay1509) |
+| 🧾 Student Spending Analysis | Row-level security (RLS), interactive Power BI dashboard | [Repo](https://github.com/Dhananjay1509/Bharat-Soft-Solution/tree/main/Power%20BI/T1) |
 
 ---
 
@@ -60,6 +61,10 @@ Currently seeking a position as a **Data Analyst** to leverage my curiosity and 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/-Gradio-FF6F61?style=flat-square)
+
+### 🚀 Cloud Platforms & Deployment
+![Streamlit Cloud](https://img.shields.io/badge/-Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/-Hugging_Face_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ### 🛠️ Tools & Environments  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
