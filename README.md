@@ -119,7 +119,7 @@ Currently seeking a position as a **Data Analyst** to leverage my curiosity and 
 - Worked with real-world datasets for EDA and supervised learning  
 - **Tools:** Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
 
-### 🔹 Data Analysis Intern @ Bharat Soft Solutions (Aug 2024 – Apr 2025)
+### 🔹 Data Analysis Intern @ Bharat Soft Solutions (Aug 2024)
 - Conducted analysis using Python & SQL to derive actionable insights  
 - Developed dashboards in Power BI & Tableau  
 - **Tools:** Python, SQL, Power BI, Tableau  
