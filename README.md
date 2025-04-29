@@ -159,7 +159,7 @@ Sinhgad Institute Of Technology, Lonavala (2020–2024)
 ## 📬 Let's Connect
 
 - 📧 Email: nerkarr.dhananjay@gmail.com  
-- 🔗 LinkedIn: [Dhananjay Nerkar](https://www.linkedin.com/in/dhananjay-da/)  
+- 🔗 LinkedIn: [Dhananjay Nerkar](https://www.linkedin.com/in/dhananjay-nerkar/)  
 - ⭐ GitHub: [Dhananjay1509](https://github.com/Dhananjay1509)  
 - 🌐 Portfolio: Coming Soon!
 
