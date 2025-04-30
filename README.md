@@ -31,10 +31,10 @@ Currently seeking a position as a **Data Analyst** to leverage my curiosity and 
 
 | 🔧 Project | 🌟 Highlights | 🔗 Link |
 |-----------|---------------|--------|
-| 🔥 Forest Fire Prediction | Ridge Regression model with 98.4% accuracy, Gradio UI, Hugging Face Spaces deployment | [Repo](https://github.com/Dhananjay1509/forest-fire-prediction) |
+| 🔥 Forest Fire Prediction | Ridge Regression model with 98.4% accuracy, Gradio UI, Hugging Face Spaces deployment | [Live Demo](https://huggingface.co/spaces/dhananjay1509/forest-fire-prediction) |
 | 🎯 Advanced Geofencing System | Real-time geolocation, marketing triggers, Firebase integration | [Repo](https://github.com/Dhananjay1509/Advanced-Geofencing) |
-| 📊 Power BI Sales Dashboard | Sales trends, KPI visualizations, auto-refresh enabled |  |
-| 📈 University Admission Predictor | Linear Regression + Streamlit web app, 89.7% accuracy | [Repo](https://github.com/Dhananjay1509/Admission_LR) |
+| 📊 Power BI Sales Dashboard | Sales trends, KPI visualizations, auto-refresh enabled | [Repo](https://github.com/Dhananjay1509/Bharat-Soft-Solution/tree/main/Power%20BI/T2) |
+| 📈 University Admission Predictor | Linear Regression + Streamlit web app, 89.7% accuracy | [Live Demo](https://admissionlr.streamlit.app/) |
 | 🧾 Student Spending Analysis | Row-level security (RLS), interactive Power BI dashboard | [Repo](https://github.com/Dhananjay1509/Bharat-Soft-Solution/tree/main/Power%20BI/T1) |
 
 ---
