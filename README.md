@@ -36,6 +36,7 @@ Currently seeking a position as a **Data Analyst** to leverage my curiosity and 
 | 📊 Power BI Sales Dashboard | Sales trends, KPI visualizations, auto-refresh enabled | [Repo](https://github.com/Dhananjay1509/Bharat-Soft-Solution/tree/main/Power%20BI/T2) |
 | 📈 University Admission Predictor | Linear Regression + Streamlit web app, 89.7% accuracy | [Live Demo](https://admissionlr.streamlit.app/) |
 | 🧾 Student Spending Analysis | Row-level security (RLS), interactive Power BI dashboard | [Repo](https://github.com/Dhananjay1509/Bharat-Soft-Solution/tree/main/Power%20BI/T1) |
+| 🧠 Wafer Fault Detection System | End-to-end ML system for wafer defect detection (95% accuracy), automated model selection (XGBoost, RF, SVM), RESTful API + CI/CD cloud deployment | [Repo](https://github.com/Dhananjay1509/Wafer-Fault-Detection) |
 
 ---
 
