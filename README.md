@@ -5,7 +5,7 @@
   <a href="mailto:nerkarr.dhananjay@gmail.com">
     <img src="https://img.shields.io/badge/Email Dhananjay-red?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/dhananjay-da/">
+  <a href="https://www.linkedin.com/in/dhananjay-nerkar">
     <img src="https://img.shields.io/badge/LinkedIn Dhananjay-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/Dhananjay1509">
