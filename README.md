@@ -1,170 +1,308 @@
-# Hey 👋, I'm Dhananjay Nerkar  
-### Data Analyst | ML Learner | Turning Data into Decisions with Python & BI Tools
+# Hey 👋, I'm Dhananjay Nerkar
+
+### AI/ML Engineer | Machine Learning Practitioner | Building Intelligent Systems with Data
 
 <div align="center">
   <a href="mailto:nerkarr.dhananjay@gmail.com">
-    <img src="https://img.shields.io/badge/Email Dhananjay-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Dhananjay-red?style=flat-square&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/dhananjay-nerkar">
-    <img src="https://img.shields.io/badge/LinkedIn Dhananjay-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Dhananjay-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/Dhananjay1509">
-    <img src="https://img.shields.io/badge/GitHub Dhananjay1509-181717?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Dhananjay1509-181717?style=flat-square&logo=github" />
   </a>
 </div>
 
 ---
 
-**🌟 Welcome to my world of data!**  
-Driven and proactive individual with a strong sense of commitment and a passion for continuous learning.  
-Eager to apply analytical skills and data-driven thinking to solve real-world problems.  
-Currently seeking a position as a **Data Analyst** to leverage my curiosity and growing experience in the data field.
+## 🚀 About Me
 
-- 🔍 Exploring **Machine Learning**, **EDA**, and **Power BI & Tableau**
-- 🚀 Open to data analyst and data science opportunities
-- 📊 Skilled in Python, SQL, EDA, ML, Streamlit, Power BI
-- 📚 Certified by Coding Ninjas, PW Skills, DataCamp, LinkedIn Learning
+Passionate AI/ML Engineer with hands-on experience in Machine Learning, Deep Learning, NLP, Model Deployment, and MLOps practices.
 
----
+I enjoy building intelligent systems that solve real-world business problems through predictive analytics, automation, and scalable machine learning solutions.
 
-## 🚀 Projects That I’m Proud Of
-
-| 🔧 Project | 🌟 Highlights | 🔗 Link |
-|-----------|---------------|--------|
-| 🔥 Forest Fire Prediction | Ridge Regression model with 98.4% accuracy, Gradio UI, Hugging Face Spaces deployment | [Live Demo](https://huggingface.co/spaces/dhananjay1509/forest-fire-prediction) |
-| 🎯 Advanced Geofencing System | Real-time geolocation, marketing triggers, Firebase integration | [Repo](https://github.com/Dhananjay1509/Advanced-Geofencing) |
-| 📊 Power BI Sales Dashboard | Sales trends, KPI visualizations, auto-refresh enabled | [Repo](https://github.com/Dhananjay1509/Bharat-Soft-Solution/tree/main/Power%20BI/T2) |
-| 📈 University Admission Predictor | Linear Regression + Streamlit web app, 89.7% accuracy | [Live Demo](https://admissionlr.streamlit.app/) |
-| 🧾 Student Spending Analysis | Row-level security (RLS), interactive Power BI dashboard | [Repo](https://github.com/Dhananjay1509/Bharat-Soft-Solution/tree/main/Power%20BI/T1) |
-| 🧠 Wafer Fault Detection System | End-to-end ML system for wafer defect detection (95% accuracy), automated model selection (XGBoost, RF, SVM), RESTful API + CI/CD cloud deployment | [Repo](https://github.com/Dhananjay1509/Wafer-Fault-Detection) |
+- 🤖 Exploring Machine Learning, Deep Learning, NLP & Generative AI
+- 🚀 Open to AI Engineer, ML Engineer, and Data Scientist opportunities
+- 🧠 Skilled in Python, Machine Learning, Deep Learning, Streamlit, Flask, SQL
+- ☁️ Interested in MLOps, Model Deployment, and Cloud AI Solutions
+- 📚 Certified by Coding Ninjas, DataCamp, PW Skills, LinkedIn Learning
 
 ---
 
-## 🧠 My Stack
+# 🏆 Featured AI/ML Projects
 
-### 👨‍💻 Programming Languages  
+| Project | Highlights |
+|----------|------------|
+| 🚨 Insurance Fraud Detection & Claim Risk Scoring System | End-to-end ML pipeline, XGBoost, LightGBM, CatBoost, SHAP, Streamlit Dashboard, Risk Scoring |
+| 🧠 Insurance Fraud Detection using Deep Neural Network | ANN-based fraud detection, TensorFlow/Keras, SMOTE, ROC-AUC, PR-AUC |
+| 🧠 Wafer Fault Detection System | End-to-end MLOps pipeline, automated model selection, REST APIs, CI/CD |
+| 🔥 Forest Fire Prediction System | Ridge Regression, Gradio UI, Hugging Face Deployment |
+| 🎓 University Admission Predictor | Linear Regression, Streamlit Deployment |
+| 🎯 Advanced Geofencing System | Real-time geolocation monitoring and Firebase integration |
+
+---
+
+## 🚨 Insurance Fraud Detection & Claim Risk Scoring System
+
+### Duration
+1–2 Months
+
+### Overview
+
+Built an end-to-end Machine Learning system for detecting fraudulent insurance claims and estimating claim severity. Implemented leakage-safe feature engineering, imbalance handling, explainable AI techniques, and risk-based business decision recommendations.
+
+### Key Features
+
+- Fraud Probability Prediction
+- Claim Severity Estimation
+- Leakage-Safe Behavioral Feature Engineering
+- Temporal Validation Strategy
+- Class Imbalance Handling using SMOTE Variants
+- Explainable AI using SHAP
+- Business Loss Optimization
+- Risk-Based Claim Decisions
+- Interactive Streamlit Dashboard
+
+### Machine Learning Models
+
+- XGBoost
+- LightGBM
+- CatBoost
+- Random Forest
+- Logistic Regression
+
+### Evaluation Metrics
+
+- PR-AUC
+- Recall
+- F2 Score
+- Business Loss
+- Top-K Lift Analysis
+
+### Tech Stack
+
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Imbalanced-Learn` `XGBoost` `LightGBM` `CatBoost` `SHAP` `Streamlit` `Joblib`
+
+### Repository
+
+```text
+Add Your GitHub Repository Link Here
+```
+
+---
+
+## 🧠 Insurance Fraud Detection using Deep Neural Network
+
+### Duration
+
+1 Month
+
+### Overview
+
+Developed a Deep Learning-based insurance fraud detection system using Artificial Neural Networks (ANN) to classify vehicle insurance claims as fraudulent or legitimate.
+
+### Key Features
+
+- Data Cleaning & Preprocessing
+- Feature Encoding
+- Feature Scaling
+- Class Imbalance Handling using SMOTE
+- Hyperparameter Tuning
+- Threshold Optimization
+- Fraud Classification
+- Model Serialization for Production Usage
+
+### Deep Learning Architecture
+
+- Input Layer
+- Multiple Dense Hidden Layers
+- ReLU Activation
+- Dropout Regularization
+- Sigmoid Output Layer
+
+### Evaluation Metrics
+
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+- PR-AUC
+
+### Tech Stack
+
+`Python` `TensorFlow` `Keras` `Scikit-Learn` `Pandas` `NumPy` `Jupyter Notebook`
+
+### Repository
+
+```text
+Add Your GitHub Repository Link Here
+```
+
+---
+
+## 🧠 Wafer Fault Detection System
+
+### Highlights
+
+- Automated Fault Detection Pipeline
+- Model Selection Automation
+- REST API Development
+- CI/CD Integration
+- Cloud Deployment
+- 95% Accuracy
+
+### Tech Stack
+
+`Python` `Scikit-Learn` `XGBoost` `Flask` `MongoDB` `CI/CD`
+
+---
+
+## 🔥 Forest Fire Prediction System
+
+### Highlights
+
+- Ridge Regression Model
+- 98.4% Accuracy
+- Gradio User Interface
+- Hugging Face Deployment
+
+### Tech Stack
+
+`Python` `Scikit-Learn` `Pandas` `Gradio`
+
+---
+
+## 🎓 University Admission Predictor
+
+### Highlights
+
+- Linear Regression
+- Streamlit Web Application
+- Admission Probability Prediction
+
+### Tech Stack
+
+`Python` `Scikit-Learn` `Streamlit`
+
+---
+
+## 🎯 Advanced Geofencing System
+
+### Highlights
+
+- Real-Time Geolocation Tracking
+- Firebase Integration
+- Event-Based Monitoring
+- Location Intelligence Workflows
+
+### Tech Stack
+
+`Python` `Firebase` `APIs`
+
+---
+
+# 🛠️ Technical Skills
+
+## Programming Languages
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square)
 
-### 📦 Python Libraries & Frameworks  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3D3D3D?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3F3F3F?style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+## Machine Learning
 
-### 📊 Data Visualization & BI Tools  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-FF6F61?style=flat-square)
+- Supervised Learning
+- Regression
+- Classification
+- Feature Engineering
+- Model Evaluation
+- Hyperparameter Tuning
+- Ensemble Learning
 
-### 🚀 Cloud Platforms & Deployment
-![Streamlit Cloud](https://img.shields.io/badge/-Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Hugging Face Spaces](https://img.shields.io/badge/-Hugging_Face_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+## Deep Learning
 
-### 🛠️ Tools & Environments  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+- Artificial Neural Networks (ANN)
+- TensorFlow
+- Keras
 
-### 🧑‍💻 Version Control & Collaboration  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+## Data Science
 
----
+- EDA
+- Data Cleaning
+- Statistical Analysis
+- Data Visualization
 
-## 📜 Certifications
+## MLOps & Deployment
 
-### 🐍 Python Programming
-- Introduction to Programming Using Python – Coding Ninjas  
-- Nasscom Python – Coding Ninjas  
-- Introduction to Python – DataCamp  
+- Flask
+- Streamlit
+- Gradio
+- REST APIs
+- GitHub Actions
+- CI/CD
+- Model Deployment
 
-### 🧪 SQL & Databases
-- SQL Associate – DataCamp  
-- Introduction to SQL – DataCamp  
-- Introduction to SQL Using Google BigQuery – LinkedIn Learning  
+## Libraries & Frameworks
 
-### 📊 Data Analysis & BI
-- Data Analyst Associate – DataCamp  
-- Introduction to Power BI – DataCamp  
-- Thinking Like an Analyst – Maven Analytics  
-- Cloud Basics for Data Professionals – Maven Analytics  
-- Data Literacy Foundations – Maven Analytics  
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- Keras
+- XGBoost
+- LightGBM
+- CatBoost
+- Matplotlib
+- Seaborn
 
-### 🧠 Data Science & ML
-- Data Science Masters – PW Skills  
-- Data Scientist Associate – DataCamp  
-- Text Classification in NLP – Great Learning  
-- Introduction to Data – DataCamp  
+## Cloud Platforms
 
-### 💼 Internships & Experience
-- Data Science Internship – Oasis Infobyte  
-- Quantium Virtual Experience – Forage  
-
-### 🎓 Additional
-- Naukri Campus Young Turks – Naukri Campus  
+- Hugging Face Spaces
+- Streamlit Cloud
 
 ---
 
-## 👨‍💻 Experience
+## 💼 Experience
 
-### 🔹 Data Science Intern @ Oasis Infobyte
-- Built ML models like Iris classification, unemployment analysis, and sales forecasting  
-- Worked with real-world datasets for EDA and supervised learning  
-- **Tools:** Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
+### Data Science Intern | Oasis Infobyte
 
-### 🔹 Data Analysis Intern @ Bharat Soft Solutions (Aug 2024)
-- Conducted analysis using Python & SQL to derive actionable insights  
-- Developed dashboards in Power BI & Tableau  
-- **Tools:** Python, SQL, Power BI, Tableau  
+- Built machine learning models for classification and forecasting tasks.
+- Conducted exploratory data analysis and feature engineering.
+- Evaluated and optimized predictive models.
+
+### Data Analysis Intern | Bharat Soft Solutions
+
+- Developed analytical dashboards and reports.
+- Worked with Python, SQL, Power BI, and Tableau.
+- Delivered actionable insights through data analysis.
 
 ---
 
 ## 🎓 Education
-**B.E. in Computer Engineering**  
-Sinhgad Institute Of Technology, Lonavala (2020–2024)
+
+### Bachelor of Engineering (Computer Engineering)
+
+**Sinhgad Institute of Technology, Lonavala**
+
+2020 – 2024
 
 ---
 
-## 📊 GitHub Insights
+## 📬 Connect With Me
+
+📧 Email: **nerkarr.dhananjay@gmail.com**
+
+🔗 LinkedIn: **https://www.linkedin.com/in/dhananjay-nerkar**
+
+💻 GitHub: **https://github.com/Dhananjay1509**
+
+---
 
 <div align="center">
 
-<!-- One-line Layout -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjay1509&layout=compact&theme=github_dark&border_radius=10&langs_count=15" width="350"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dhananjay1509&show_icons=true&theme=react&hide_title=false" width="350"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhananjay1509&theme=react" width="350"/>
-    </td>
-  </tr>
-</table>
+### "Building Intelligent Systems That Transform Data Into Impactful Decisions."
+
+⭐ Thanks for visiting my profile!
 
 </div>
-
-
----
-
-## 📬 Let's Connect
-
-- 📧 Email: nerkarr.dhananjay@gmail.com  
-- 🔗 LinkedIn: [Dhananjay Nerkar](https://www.linkedin.com/in/dhananjay-nerkar/)  
-- ⭐ GitHub: [Dhananjay1509](https://github.com/Dhananjay1509)  
-- 🌐 Portfolio: Coming Soon!
-
----
-
-<div align="center"><em>“Data is the new oil, and I’m here to refine it.”</em></div>  
-<div align="center">✨ <strong>Thank you for stopping by! Don’t forget to star ⭐ your favorite repos!</strong></div>
