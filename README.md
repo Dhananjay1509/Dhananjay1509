@@ -18,9 +18,9 @@
 
 ## 🚀 About Me
 
-Passionate AI/ML Engineer with hands-on experience in Machine Learning, Deep Learning, NLP, Model Deployment, and MLOps practices.
+Passionate about Artificial Intelligence, Machine Learning, Deep Learning, LLMs, and Data Analytics.
 
-I enjoy building intelligent systems that solve real-world business problems through predictive analytics, automation, and scalable machine learning solutions.
+Currently building projects with Python, NLP, RAG, LLM, and modern AI technologies while continuously expanding my knowledge of intelligent systems and real-world AI applications.
 
 - 🤖 Exploring Machine Learning, Deep Learning, NLP & Generative AI
 - 🚀 Open to AI Engineer, ML Engineer, and Data Scientist opportunities
