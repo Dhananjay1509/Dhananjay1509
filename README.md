@@ -1,6 +1,6 @@
 # Hey 👋, I'm Dhananjay Nerkar
 
-### AI/ML Engineer | Machine Learning Practitioner | Building Intelligent Systems with Data
+### Python | SQL | ML | LLM | RAG | Aspiring AI/ML Engineer 
 
 <div align="center">
   <a href="mailto:nerkarr.dhananjay@gmail.com">
